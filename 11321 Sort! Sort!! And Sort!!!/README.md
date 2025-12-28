@@ -10,7 +10,7 @@ For remainder value of negative numbers follow the rule of C programming languag
 The input file contains 20 sets of inputs. Each set starts with two integers *N* (0 < *N* ≤ 10000) and *M* (0 < *M* ≤ 10000) which denotes how many numbers are within this set. Each of the next *N* lines contains one number each. These numbers should all fit in 32-bit signed integer. Input is terminated by a line containing two zeroes.
 
 ### Output
-For each set of input produce *N* + 1 lines of outputs. The first line of each set contains the value of *N* and *M*. The next Nlines contain Nnumbers, sorted according to the rules mentioned above. Print the last two zeroes of the input file in the output file also.
+For each set of input produce *N* + 1 lines of outputs. The first line of each set contains the value of *N* and *M*. The next *N* lines contain *N* numbers, sorted according to the rules mentioned above. Print the last two zeroes of the input file in the output file also.
 
 ### Sample Input
 ```
