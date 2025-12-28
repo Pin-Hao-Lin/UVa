@@ -7,7 +7,7 @@ In most professional sporting events, cheerleaders play a major role in entertai
 * There can be at most one cheerleader in a cell.
 * All the cheerleaders available must be assigned to a cell. That is, none of them can be left out.
 
-![alt text](image.png =300x)
+![alt text](image.png)
 
 The organizers would like to know, how many ways they can place the cheerleaders while maintaining the above constraints. Two placements are different, if there is at least one cell which contains a cheerleader in one of the placement but not in the other.
 
