@@ -15,7 +15,7 @@ int main() {
             cin >> arr[i];
             sum += arr[i];
         }
-        sort(arr, arr+N);
+
         vector<bitset<45001>> dp(N/2+1);
         dp[0].set(0);
         for (int k = 0; k < N; k++) {
