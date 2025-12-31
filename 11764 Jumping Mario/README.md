@@ -5,11 +5,7 @@ Mario is in the final castle. He now needs to jump over few walls and then enter
 he reaches the last one. That means, he will make (*N* − 1) jumps. A high jump is one where Mario has
 to jump to a taller wall, and similarly, a low jump is one where Mario has to jump to a shorter wall. Can you find out the total number of high jumps and low jumps Mario has to make?
 
-<center>
-
 ![alt text](image.png)
-
-</center>
 
 ### Input
 The first line of input is an integer *T* (*T* < 30) that indicates the number of test cases. Each case starts with an integer *N* (0 < *N* < 50) that determines the number of walls. The next line gives the height of the *N* walls from left to right. Each height is a positive integer not exceeding 10.
