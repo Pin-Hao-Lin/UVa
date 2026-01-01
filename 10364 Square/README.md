@@ -4,7 +4,7 @@
 Given a set of sticks of various lengths, is it possible to join them end-to-end to form a square?
 
 ### Input
-The first line of input contains *N*, the number of test cases. Each test case begins with an integer 4 ≤ *M* ≤ 20, the number of sticks. **M* integers follow; each gives the length of a stick — an integer between 1 and 10,000.
+The first line of input contains *N*, the number of test cases. Each test case begins with an integer 4 ≤ *M* ≤ 20, the number of sticks. *M* integers follow; each gives the length of a stick — an integer between 1 and 10,000.
 
 ### Output
 For each case, output a line containing ‘yes’ if is is possible to form a square; otherwise output ‘no’.
