@@ -30,4 +30,4 @@ You programm should print the sequence of jobs with minimal fine. Each job shoul
 ```
 
 ---
-* CPE 2016-03-22 P6
+* CPE 2016-03-22 P6 (測資按照 id 大小排列，非字典序)
