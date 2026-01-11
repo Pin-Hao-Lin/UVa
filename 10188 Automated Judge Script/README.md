@@ -39,10 +39,10 @@ The answer is: 10
 The answer is: 15
 2
 The answer is: 10
-The answer is: 5
+The answer is:  5
 2
 The answer is: 10
-The answer is:  5
+The answer is: 5
 3
 Input Set #1: YES
 Input Set #2: NO
